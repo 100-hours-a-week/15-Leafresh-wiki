@@ -2,7 +2,7 @@
 name: Sprint-Backlog-Template
 about: 스프린트 백로그 탬플
 title: ''
-labels: 스프린트-백로그
+labels: 데일리-스크럼, 스프린트-백로그
 assignees: ''
 
 ---
