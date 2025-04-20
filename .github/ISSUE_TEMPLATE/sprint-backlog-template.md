@@ -3,7 +3,8 @@ name: Sprint-Backlog-Template
 about: 스프린트 백로그 탬플
 title: ''
 labels: 데일리-스크럼, 스프린트-백로그
-assignees: seplease, kellyn0522, jihostudy, sunsetdust, jchanho99, hohohoho1223, pieceofizzy
+assignees: hohohoho1223, jchanho99, jihostudy, kellyn0522, pieceofizzy, seplease,
+  sunsetdust
 
 ---
 
