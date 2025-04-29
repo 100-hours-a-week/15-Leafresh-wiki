@@ -2,7 +2,7 @@
 name: Sprint-Backlog-Template
 about: 스프린트 백로그 탬플
 title: ''
-labels: 데일리-스크럼, 스프린트-백로그
+labels: 데일리-스크럼, 멘토링, 스프린트-백로그
 assignees: hohohoho1223, jchanho99, jihostudy, kellyn0522, pieceofizzy, seplease,
   sunsetdust
 
